@@ -11,6 +11,8 @@ Metadata associated with the StatsD collectd plugin can be found <a target="_bla
 
 ### DESCRIPTION
 
+This file will be edited to point to SmartAgent. 
+
 The StatsD plugin for collectd listens for StatsD events, aggregates them and transmits them according to collectd's configuration. Use this plugin to send data from StatsD to SignalFx.
 
 From <a target="_blank" href="https://collectd.org/documentation/manpages/collectd.conf.5.shtml#plugin_statsd">collectd's manpage</a>:
